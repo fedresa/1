@@ -5,7 +5,6 @@ import pandas as pd
 import streamlit as st
 import os
 import time
-import snowflake.connector
 import subprocess
 from os import system, name
 from time import sleep
